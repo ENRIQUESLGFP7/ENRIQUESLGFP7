@@ -27,7 +27,7 @@ Ingeniero electromecánico con más de 15 años de experiencia en **sistemas de 
 ---
 
 📬 **Conectemos:**  
-[![LinkedIn Badge](https://img.shields.io/badge/-Enrique%20Slim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-sl-gonzalez/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Enrique%20S%20Gonzalez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-sl-gonzalez/)
 
 </div>
 <!--
