@@ -2,7 +2,7 @@
   <img decoding="async" src="roboticmanufdata01.jpg" width="800"/>
 </div>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/enrique-sl-gonzalez)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-sl-gonzalez/)
 
 <h1>
   Hola soy Enrique. ¡Bienvenido a mi espacio!
@@ -27,7 +27,7 @@ Ingeniero electromecánico con más de 15 años de experiencia en **sistemas de 
 ---
 
 📬 **Conectemos:**  
-[![LinkedIn Badge](https://img.shields.io/badge/-Enrique%20Slim-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/enrique-sl-gonzalez)
+[![LinkedIn Badge](https://img.shields.io/badge/-Enrique%20Slim-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-sl-gonzalez/)
 
 </div>
 <!--
