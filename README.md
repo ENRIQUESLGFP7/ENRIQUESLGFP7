@@ -1,10 +1,8 @@
-## Hi there 👋
-
-<!--
 <div id="header" align="center">
   <img decoding="async" src="roboticmanufdata01.jpg" width="800"/>
 </div>
-
+<!--
+## Hi there 👋
 **ENRIQUESLGFP7/ENRIQUESLGFP7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
