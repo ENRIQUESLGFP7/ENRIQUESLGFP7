@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img decoding="async" src="roboticmanufdata01.jpg" width="800"/>
 </div>
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/enrique-sl-gonzalez)
 <!--
 ## Hi there 👋
 **ENRIQUESLGFP7/ENRIQUESLGFP7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
