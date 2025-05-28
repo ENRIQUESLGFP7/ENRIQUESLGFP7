@@ -5,28 +5,28 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-sl-gonzalez/)
 
 <h1>
-  Hola soy Enrique. ¡Bienvenido a mi espacio!
+  Hi there, I'm Enrique. ¡Nice to meet you!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 ---
  <div id="header" align="left">
 
-### 👨‍💻 Sobre mí
+### 👨‍💻 About me
 
-Ingeniero electromecánico con más de 15 años de experiencia en **sistemas de manufactura automatizada**, actualmente ampliando mi perfil hacia el **análisis de datos** y la **inteligencia artificial aplicada a la industria**.
+Electromechanical engineer with more than 15 years of experience in **automated manufacturing systems**, currently expanding my profile towards **data analysis** and **artificial intelligence applied to industry**.
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30">
 
-- 🏭 He liderado proyectos de **automatización, robótica y mejora de procesos** en entornos industriales exigentes.
-- 📊 En proceso de consolidar mis habilidades en **Python, SQL, Tableau y análisis estadístico** para tomar mejores decisiones basadas en datos.
-- 🧠 Me apasiona conectar la ingeniería con el **machine learning** y la **gestión de datos** para optimizar la eficiencia productiva.
-- ⚙️ Amante de las tecnologías que impulsan la **Industria 4.0**: sensores inteligentes, visualización de datos, integración de sistemas.
-- 🤝 Siempre abierto a colaborar en proyectos donde converjan la **experiencia técnica y el análisis de datos**.
+- 🏭 I have led automation, robotics, and process improvement projects in demanding industrial environments.
+- 📊 I am currently consolidating my skills in Python, SQL, Tableau, and statistical analysis to make better data-driven decisions.
+- 🧠 I am passionate about connecting engineering with machine learning and data management to optimize production efficiency.
+- ⚙️ I am passionate about the technologies that drive Industry 4.0: smart sensors, data visualization, systems integration.
+- 🤝 Always open to collaborating on projects where technical expertise and data analysis converge.
 
 ---
 
-📬 **Conectemos:**  
+📬 Let's connect:
 [![LinkedIn Badge](https://img.shields.io/badge/-Enrique%20S%20Gonzalez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-sl-gonzalez/)
 
 </div>
