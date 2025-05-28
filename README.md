@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About me
 
-Electromechanical engineer with more than 15 years of experience in **automated manufacturing systems**, currently expanding my profile towards **data analysis** and **artificial intelligence applied to industry**.
+I am an electromechanical engineer with more than 15 years of experience in **automated manufacturing systems**, currently expanding my profile towards **data analysis** and **artificial intelligence applied to industry**.
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30">
 
